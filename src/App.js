@@ -1,11 +1,13 @@
 import "./App.css";
 import Home from "./components/Home";
 import Header from "./components/Header";
+// import { Banner } from "./components/Banner";
 function App() {
   return (
     <div className="App">
-      <Home />
       <Header />
+      <Home />
+      {/* <Banner /> */}
       {/* Home -->main page*/}
       {/* Header ->inside Home*/}
 
