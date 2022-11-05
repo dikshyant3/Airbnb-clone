@@ -13,7 +13,7 @@ export const Banner = () => {
         <Button
           onClick={() => setShowSearch(!showSearch)}
           className="banner__searchButton"
-          variant="outlined"
+          //   variant="outlined"
         >
           {showSearch ? "Hide" : "Search Dates"}
         </Button>
