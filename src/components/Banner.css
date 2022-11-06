@@ -3,12 +3,13 @@
     center center;
   height: 50vh;
   position: relative;
+  margin-bottom: 25px;
 }
 
 .banner__info {
   background-color: black;
   color: white;
-  padding-top: 22vh;
+  padding-top: 20vh;
   padding-left: 50px;
   padding-right: 50px;
   padding-bottom: 40px;

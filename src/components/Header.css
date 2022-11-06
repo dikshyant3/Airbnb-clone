@@ -6,6 +6,7 @@
   top: 0;
   background-color: #fff;
   z-index: 100;
+  cursor: pointer;
 }
 .header__icon {
   object-fit: contain;
